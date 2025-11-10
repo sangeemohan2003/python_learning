@@ -1,0 +1,11 @@
+symboling,normalized_losses,make,fuel_type,aspiration,num_of_doors,body_style,drive_wheels,engine_location,wheel_base,length,width,height,curb_weight,engine_type,num_of_cylinders,engine_size,fuel_system,bore,stroke,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg,price
+2,150,Toyota,gas,std,four,sedan,fwd,front,97.0,175.0,66.0,54.0,2500,DOHC,four,120,mpfi,3.15,3.40,9.0,95,5500,28,34,15000
+0,120,Honda,gas,std,four,hatchback,fwd,front,96.5,168.0,65.0,53.0,2300,OHC,four,110,2bbl,3.05,3.35,9.2,88,5200,30,36,13500
+1,180,BMW,diesel,turbo,two,sedan,rwd,front,103.0,180.0,67.0,55.0,2800,DOHC,six,180,mpfi,3.50,3.40,8.5,140,6000,22,30,28000
+-1,100,Ford,gas,std,four,wagon,fwd,front,102.0,176.0,66.0,56.0,2700,OHV,four,150,2bbl,3.20,3.40,9.0,115,5500,25,32,17000
+3,200,Audi,gas,turbo,four,sedan,4wd,front,105.0,185.0,68.0,55.0,3000,DOHC,five,200,mpfi,3.60,3.40,8.8,160,6200,20,28,35000
+0,130,Nissan,gas,std,four,hatchback,fwd,front,95.0,170.0,64.0,53.0,2400,OHC,four,125,mpfi,3.10,3.30,9.1,100,5600,27,33,14500
+-2,90,Chevrolet,gas,std,four,sedan,fwd,front,101.0,178.0,66.0,54.0,2600,OHV,six,170,2bbl,3.40,3.40,9.0,120,5400,24,31,16000
+1,160,Mercedes,diesel,turbo,four,sedan,rwd,front,110.0,190.0,69.0,56.0,3200,DOHC,six,220,mpfi,3.70,3.40,8.7,170,6000,21,29,40000
+2,140,Hyundai,gas,std,four,hatchback,fwd,front,98.0,172.0,65.0,53.0,2450,OHC,four,130,mpfi,3.20,3.35,9.3,105,5700,28,35,15500
+0,110,Kia,gas,std,four,sedan,fwd,front,100.0,174.0,66.0,54.0,2550,OHC,four,140,mpfi,3.25,3.40,9.0,110,5600,26,34,16000
