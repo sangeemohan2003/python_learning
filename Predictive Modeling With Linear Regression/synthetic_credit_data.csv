@@ -1,0 +1,101 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Purpose
+56,Female,Skilled,Rent,Quite Rich,Moderate,11761,Car
+69,Female,Skilled,Free,Rich,Rich,917,Domestic Appliances
+46,Female,Unskilled & Non-resident,Own,Moderate,Moderate,9308,Radio/TV
+32,Male,Unskilled & Non-resident,Own,Rich,Little,3767,Repairs
+60,Male,Unskilled & Non-resident,Free,Moderate,Moderate,17709,Car
+25,Male,Highly Skilled,Own,Rich,Little,6245,Radio/TV
+38,Male,Unskilled & Non-resident,Free,Rich,Moderate,11838,Radio/TV
+56,Male,Highly Skilled,Own,Moderate,Rich,912,Vacation/Others
+36,Male,Skilled,Own,Moderate,Rich,8043,Radio/TV
+40,Male,Highly Skilled,Rent,Moderate,Little,8087,Domestic Appliances
+28,Male,Unskilled & Non-resident,Rent,Little,Little,1228,Business
+28,Male,Skilled,Own,Quite Rich,Little,12157,Domestic Appliances
+41,Female,Skilled,Own,Little,Moderate,6488,Education
+70,Male,Skilled,Rent,Little,Moderate,19388,Car
+53,Female,Highly Skilled,Rent,Rich,Little,3467,Business
+57,Female,Unskilled & Non-resident,Rent,Moderate,Rich,15027,Vacation/Others
+41,Female,Skilled,Free,Quite Rich,Moderate,19670,Business
+20,Male,Skilled,Own,Rich,Moderate,16548,Business
+39,Male,Skilled,Rent,Little,Moderate,18006,Repairs
+70,Male,Highly Skilled,Own,Moderate,Little,18455,Business
+19,Male,Highly Skilled,Free,Rich,Little,5573,Vacation/Others
+41,Female,Unskilled & Non-resident,Free,Moderate,Little,5604,Domestic Appliances
+61,Male,Highly Skilled,Rent,Rich,Little,2643,Business
+47,Male,Skilled,Free,Moderate,Little,7857,Furniture/Equipment
+55,Male,Unskilled & Non-resident,Own,Little,Rich,12543,Car
+19,Male,Skilled,Rent,Quite Rich,Rich,3940,Business
+38,Male,Skilled,Own,Little,Little,6144,Car
+50,Female,Highly Skilled,Own,Quite Rich,Moderate,11018,Furniture/Equipment
+29,Male,Unskilled & Non-resident,Free,Moderate,Little,15052,Furniture/Equipment
+39,Female,Highly Skilled,Free,Rich,Rich,3414,Car
+61,Male,Highly Skilled,Free,Little,Rich,14084,Radio/TV
+42,Female,Unskilled & Non-resident,Free,Quite Rich,Moderate,12644,Education
+66,Male,Skilled,Free,Little,Rich,14897,Repairs
+44,Male,Skilled,Rent,Quite Rich,Little,9287,Radio/TV
+59,Female,Unskilled & Non-resident,Own,Little,Moderate,14691,Radio/TV
+45,Female,Skilled,Own,Quite Rich,Little,1228,Domestic Appliances
+33,Female,Unskilled & Non-resident,Own,Quite Rich,Little,18249,Repairs
+32,Male,Unskilled & Non-resident,Own,Moderate,Moderate,1198,Repairs
+64,Female,Highly Skilled,Free,Quite Rich,Little,7686,Radio/TV
+68,Male,Unskilled & Non-resident,Own,Moderate,Rich,15012,Business
+61,Male,Highly Skilled,Rent,Quite Rich,Little,14423,Domestic Appliances
+69,Female,Skilled,Rent,Rich,Moderate,17279,Domestic Appliances
+20,Female,Skilled,Own,Rich,Moderate,7900,Furniture/Equipment
+54,Male,Skilled,Own,Rich,Moderate,4671,Vacation/Others
+68,Male,Skilled,Rent,Quite Rich,Little,4860,Repairs
+24,Female,Highly Skilled,Rent,Moderate,Moderate,3002,Radio/TV
+38,Female,Skilled,Free,Moderate,Moderate,17601,Furniture/Equipment
+26,Female,Unskilled & Non-resident,Rent,Quite Rich,Little,19666,Car
+56,Male,Unskilled & Non-resident,Free,Rich,Rich,5986,Education
+35,Male,Unskilled & Non-resident,Free,Rich,Little,8835,Vacation/Others
+21,Male,Highly Skilled,Free,Moderate,Moderate,4991,Vacation/Others
+42,Male,Skilled,Free,Rich,Moderate,11630,Vacation/Others
+31,Male,Skilled,Free,Little,Little,8151,Domestic Appliances
+67,Male,Skilled,Own,Moderate,Rich,1667,Car
+26,Female,Highly Skilled,Rent,Rich,Moderate,1562,Vacation/Others
+43,Male,Unskilled & Non-resident,Free,Moderate,Moderate,19040,Car
+70,Male,Unskilled & Non-resident,Rent,Little,Moderate,11674,Business
+19,Male,Skilled,Rent,Moderate,Little,5229,Vacation/Others
+37,Female,Unskilled & Non-resident,Free,Moderate,Moderate,9848,Education
+45,Male,Unskilled & Non-resident,Own,Moderate,Rich,5834,Car
+64,Male,Highly Skilled,Free,Moderate,Moderate,9424,Car
+24,Female,Highly Skilled,Own,Little,Moderate,4830,Education
+61,Male,Highly Skilled,Rent,Quite Rich,Rich,7301,Vacation/Others
+25,Male,Highly Skilled,Own,Moderate,Moderate,5346,Education
+64,Male,Skilled,Own,Moderate,Little,7231,Car
+52,Male,Highly Skilled,Own,Rich,Little,15868,Education
+31,Male,Unskilled & Non-resident,Rent,Moderate,Little,17837,Car
+34,Female,Skilled,Rent,Rich,Rich,3039,Car
+53,Female,Unskilled & Non-resident,Own,Quite Rich,Moderate,7556,Business
+67,Female,Unskilled & Non-resident,Own,Little,Little,12016,Radio/TV
+57,Male,Unskilled & Non-resident,Free,Little,Rich,11993,Car
+21,Male,Highly Skilled,Own,Quite Rich,Moderate,2042,Vacation/Others
+19,Male,Highly Skilled,Free,Little,Rich,14464,Furniture/Equipment
+23,Female,Skilled,Own,Quite Rich,Little,18075,Domestic Appliances
+59,Male,Skilled,Free,Quite Rich,Little,6813,Repairs
+21,Male,Highly Skilled,Rent,Quite Rich,Little,19565,Radio/TV
+46,Female,Unskilled & Non-resident,Own,Little,Rich,18424,Radio/TV
+35,Male,Skilled,Own,Rich,Rich,14307,Radio/TV
+43,Female,Highly Skilled,Own,Quite Rich,Little,10080,Business
+61,Female,Highly Skilled,Own,Moderate,Rich,18249,Car
+51,Female,Highly Skilled,Free,Little,Little,9191,Business
+27,Male,Unskilled & Non-resident,Own,Quite Rich,Little,7994,Car
+53,Male,Highly Skilled,Rent,Quite Rich,Moderate,4812,Vacation/Others
+31,Male,Highly Skilled,Rent,Moderate,Rich,1824,Business
+48,Male,Highly Skilled,Own,Rich,Little,3641,Business
+65,Male,Highly Skilled,Rent,Rich,Little,2310,Domestic Appliances
+32,Male,Skilled,Own,Rich,Rich,7088,Furniture/Equipment
+25,Male,Skilled,Own,Quite Rich,Moderate,19807,Business
+31,Female,Highly Skilled,Rent,Quite Rich,Moderate,5801,Domestic Appliances
+40,Male,Unskilled & Non-resident,Own,Quite Rich,Little,15985,Education
+57,Female,Skilled,Rent,Little,Rich,12214,Furniture/Equipment
+38,Male,Highly Skilled,Free,Moderate,Moderate,5248,Vacation/Others
+33,Male,Skilled,Own,Quite Rich,Rich,9935,Business
+62,Male,Skilled,Free,Moderate,Rich,4209,Repairs
+35,Female,Unskilled & Non-resident,Rent,Moderate,Little,13616,Radio/TV
+64,Female,Highly Skilled,Free,Rich,Moderate,10076,Education
+70,Female,Highly Skilled,Free,Little,Little,10650,Education
+41,Female,Unskilled & Non-resident,Rent,Quite Rich,Moderate,19956,Vacation/Others
+43,Male,Unskilled & Non-resident,Free,Rich,Moderate,7030,Domestic Appliances
+42,Female,Highly Skilled,Free,Rich,Moderate,10688,Education

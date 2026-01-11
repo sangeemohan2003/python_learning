@@ -1,0 +1,1001 @@
+user_id,age_group,subscription_status,engagement_time
+14451,18-34,subscribed,5.55
+18386,under 18,subscribed,5.12
+12305,35 and over,not_subscribed,4.25
+17546,18-34,subscribed,8.54
+15399,18-34,subscribed,12.12
+13167,18-34,subscribed,9.92
+11435,35 and over,subscribed,2.07
+16158,under 18,subscribed,7.02
+16311,18-34,not_subscribed,7.58
+10245,35 and over,not_subscribed,2.37
+11648,35 and over,not_subscribed,7.00
+19509,18-34,subscribed,7.32
+17482,35 and over,not_subscribed,7.00
+18302,18-34,subscribed,7.44
+15637,35 and over,not_subscribed,4.79
+10628,18-34,subscribed,10.27
+11951,under 18,subscribed,6.01
+16784,18-34,not_subscribed,5.06
+12184,under 18,subscribed,6.27
+12658,under 18,not_subscribed,5.83
+10208,35 and over,not_subscribed,7.00
+17039,under 18,not_subscribed,4.05
+13892,35 and over,not_subscribed,7.00
+14436,35 and over,not_subscribed,3.00
+16026,18-34,subscribed,11.06
+12428,35 and over,not_subscribed,2.26
+14807,under 18,not_subscribed,3.83
+19854,18-34,subscribed,5.72
+11841,35 and over,not_subscribed,3.54
+13839,35 and over,not_subscribed,5.00
+19577,18-34,subscribed,9.71
+12833,18-34,not_subscribed,9.41
+14597,35 and over,not_subscribed,2.33
+19578,35 and over,not_subscribed,7.00
+16641,35 and over,subscribed,4.75
+11980,under 18,not_subscribed,6.01
+14625,18-34,not_subscribed,6.92
+12857,under 18,subscribed,5.52
+12831,35 and over,not_subscribed,2.93
+17651,18-34,subscribed,8.43
+10767,under 18,subscribed,5.04
+15831,under 18,subscribed,6.38
+15725,under 18,not_subscribed,6.12
+19488,35 and over,not_subscribed,3.18
+14727,35 and over,not_subscribed,2.04
+16428,under 18,not_subscribed,7.74
+13092,18-34,subscribed,10.30
+14296,under 18,subscribed,6.87
+16395,35 and over,not_subscribed,2.42
+13154,18-34,subscribed,10.38
+15896,under 18,subscribed,5.88
+12566,35 and over,not_subscribed,4.41
+19769,35 and over,not_subscribed,3.54
+13411,under 18,not_subscribed,3.34
+12390,under 18,subscribed,6.84
+16881,18-34,subscribed,7.64
+16036,35 and over,subscribed,4.92
+12952,35 and over,not_subscribed,3.37
+16128,18-34,subscribed,9.31
+17040,under 18,subscribed,6.12
+16326,35 and over,not_subscribed,2.59
+17594,under 18,not_subscribed,5.24
+19915,under 18,subscribed,6.90
+14765,35 and over,subscribed,1.96
+11732,18-34,subscribed,7.40
+13480,18-34,subscribed,11.15
+11080,35 and over,not_subscribed,7.00
+15539,35 and over,subscribed,5.80
+12293,35 and over,subscribed,7.74
+18850,35 and over,not_subscribed,6.00
+10866,35 and over,not_subscribed,2.21
+16373,under 18,subscribed,5.79
+19791,35 and over,subscribed,5.76
+18539,18-34,not_subscribed,3.55
+12125,35 and over,subscribed,5.42
+16020,18-34,subscribed,4.57
+11484,35 and over,not_subscribed,2.79
+12236,35 and over,subscribed,6.28
+15098,35 and over,not_subscribed,2.46
+18570,under 18,subscribed,5.85
+13173,18-34,subscribed,10.58
+18909,35 and over,subscribed,4.20
+10597,under 18,subscribed,6.35
+12211,under 18,subscribed,5.81
+10350,35 and over,not_subscribed,2.57
+12745,35 and over,not_subscribed,2.20
+13541,18-34,subscribed,10.08
+12442,18-34,subscribed,10.21
+15645,35 and over,subscribed,7.38
+10458,35 and over,not_subscribed,4.27
+17540,18-34,not_subscribed,9.29
+13054,under 18,not_subscribed,3.99
+19212,18-34,subscribed,12.60
+15882,35 and over,not_subscribed,3.73
+12948,under 18,subscribed,6.27
+18784,18-34,subscribed,9.68
+16306,18-34,not_subscribed,7.06
+15375,18-34,subscribed,8.50
+16685,18-34,subscribed,8.38
+10701,18-34,subscribed,9.33
+12869,under 18,not_subscribed,3.75
+16787,35 and over,not_subscribed,2.69
+11942,18-34,not_subscribed,8.48
+19129,35 and over,subscribed,9.71
+15634,18-34,subscribed,9.06
+15463,35 and over,not_subscribed,3.98
+19948,35 and over,not_subscribed,3.70
+19148,under 18,not_subscribed,6.85
+17993,18-34,subscribed,9.12
+13075,18-34,subscribed,7.43
+13881,35 and over,not_subscribed,2.70
+10625,18-34,subscribed,11.62
+16680,35 and over,not_subscribed,4.96
+18965,35 and over,subscribed,7.20
+17175,18-34,subscribed,9.83
+18069,18-34,subscribed,7.22
+17158,35 and over,not_subscribed,4.20
+19109,under 18,not_subscribed,6.54
+14559,18-34,subscribed,12.26
+15606,18-34,subscribed,9.62
+17550,18-34,not_subscribed,9.27
+14824,18-34,subscribed,9.64
+14409,18-34,not_subscribed,2.46
+18933,35 and over,not_subscribed,4.60
+11923,18-34,subscribed,7.71
+11886,35 and over,not_subscribed,3.93
+15232,under 18,subscribed,5.33
+19131,under 18,not_subscribed,2.88
+13796,18-34,not_subscribed,5.70
+10875,18-34,subscribed,7.91
+17443,35 and over,subscribed,3.87
+12950,35 and over,subscribed,6.53
+19826,under 18,not_subscribed,5.66
+11245,18-34,subscribed,8.82
+13998,18-34,subscribed,8.62
+10361,35 and over,subscribed,6.44
+11856,18-34,subscribed,8.89
+14862,18-34,not_subscribed,7.50
+19889,18-34,subscribed,9.52
+12945,35 and over,not_subscribed,2.80
+12673,35 and over,not_subscribed,5.00
+19574,18-34,subscribed,9.57
+11014,35 and over,not_subscribed,3.64
+16074,35 and over,not_subscribed,6.00
+17181,18-34,subscribed,8.57
+19761,35 and over,not_subscribed,2.88
+17558,18-34,subscribed,14.91
+13706,35 and over,not_subscribed,2.99
+16028,18-34,not_subscribed,8.90
+18730,35 and over,not_subscribed,2.43
+15588,35 and over,subscribed,7.55
+17116,under 18,not_subscribed,11.31
+13162,under 18,subscribed,5.70
+17348,35 and over,subscribed,4.63
+13377,35 and over,not_subscribed,3.30
+17894,18-34,subscribed,10.91
+12255,35 and over,not_subscribed,5.00
+14359,35 and over,subscribed,6.56
+15618,18-34,subscribed,10.45
+11156,under 18,not_subscribed,3.39
+19522,under 18,not_subscribed,8.54
+16445,35 and over,subscribed,8.92
+19622,35 and over,subscribed,8.79
+17074,under 18,not_subscribed,6.98
+12023,18-34,not_subscribed,5.22
+10311,35 and over,not_subscribed,2.78
+12424,18-34,not_subscribed,4.67
+17519,18-34,not_subscribed,8.49
+11270,35 and over,not_subscribed,3.57
+14798,35 and over,not_subscribed,2.92
+16708,35 and over,not_subscribed,4.96
+19945,under 18,subscribed,6.94
+11631,18-34,not_subscribed,8.12
+18347,under 18,subscribed,5.85
+16453,18-34,not_subscribed,4.87
+12443,18-34,not_subscribed,3.37
+11879,18-34,subscribed,12.53
+10312,18-34,not_subscribed,16.98
+12330,18-34,subscribed,9.19
+16061,under 18,not_subscribed,2.88
+10823,18-34,subscribed,7.20
+11866,under 18,subscribed,7.45
+15586,35 and over,not_subscribed,5.00
+16800,under 18,not_subscribed,4.35
+15644,35 and over,subscribed,6.38
+11069,under 18,subscribed,5.42
+16012,35 and over,not_subscribed,4.24
+10123,18-34,not_subscribed,4.75
+16576,18-34,not_subscribed,4.08
+10542,18-34,subscribed,6.07
+11065,35 and over,not_subscribed,2.30
+15962,18-34,subscribed,10.53
+12411,under 18,subscribed,7.95
+13613,35 and over,not_subscribed,3.65
+12583,18-34,subscribed,12.04
+12663,35 and over,not_subscribed,2.50
+18470,35 and over,not_subscribed,3.35
+18908,35 and over,not_subscribed,2.82
+16375,under 18,not_subscribed,6.58
+14286,35 and over,not_subscribed,2.32
+14207,35 and over,subscribed,6.92
+18058,35 and over,not_subscribed,6.00
+10656,18-34,not_subscribed,8.29
+17197,under 18,not_subscribed,4.42
+10060,18-34,subscribed,9.36
+15172,under 18,not_subscribed,3.94
+18481,18-34,subscribed,8.10
+10089,35 and over,not_subscribed,2.55
+18741,18-34,subscribed,10.05
+11840,35 and over,not_subscribed,4.40
+14747,18-34,not_subscribed,5.31
+10925,35 and over,subscribed,2.27
+18379,35 and over,subscribed,4.62
+11608,18-34,subscribed,6.91
+12380,under 18,subscribed,7.72
+11033,under 18,subscribed,6.71
+15327,35 and over,subscribed,5.66
+15394,under 18,not_subscribed,4.71
+15817,35 and over,not_subscribed,4.08
+17793,under 18,subscribed,7.00
+11809,35 and over,subscribed,6.54
+18149,18-34,subscribed,8.26
+18487,35 and over,not_subscribed,2.73
+18275,18-34,subscribed,9.48
+11907,18-34,subscribed,9.07
+10268,35 and over,subscribed,5.66
+17150,18-34,not_subscribed,7.13
+10148,35 and over,not_subscribed,3.51
+14062,under 18,subscribed,6.31
+12298,18-34,subscribed,12.35
+16928,18-34,subscribed,11.55
+12692,35 and over,subscribed,4.05
+10000,18-34,subscribed,7.18
+19727,35 and over,not_subscribed,2.61
+12821,under 18,not_subscribed,3.92
+15651,under 18,not_subscribed,5.82
+16088,18-34,subscribed,10.31
+11258,under 18,subscribed,7.32
+13551,under 18,subscribed,6.49
+11471,under 18,not_subscribed,3.61
+12371,18-34,subscribed,6.84
+15590,18-34,subscribed,12.61
+16718,under 18,subscribed,5.58
+17021,35 and over,subscribed,9.85
+14372,35 and over,not_subscribed,2.03
+12603,35 and over,not_subscribed,3.84
+18441,under 18,not_subscribed,9.27
+18918,35 and over,subscribed,6.58
+19848,35 and over,subscribed,7.00
+10750,18-34,subscribed,7.86
+17200,18-34,not_subscribed,7.34
+16873,35 and over,subscribed,6.94
+19521,18-34,subscribed,11.46
+11785,under 18,not_subscribed,6.45
+17782,under 18,not_subscribed,3.53
+10403,18-34,not_subscribed,3.86
+13359,35 and over,subscribed,9.42
+14872,under 18,subscribed,6.57
+15648,18-34,subscribed,10.61
+16601,18-34,subscribed,10.75
+17064,35 and over,not_subscribed,2.31
+18952,35 and over,subscribed,5.99
+15220,under 18,subscribed,6.51
+10008,35 and over,subscribed,5.06
+11017,18-34,not_subscribed,6.30
+17515,35 and over,subscribed,4.59
+14400,under 18,not_subscribed,4.91
+19613,35 and over,subscribed,7.61
+15559,18-34,not_subscribed,2.42
+16349,under 18,subscribed,8.01
+18238,under 18,not_subscribed,3.05
+16366,35 and over,not_subscribed,3.07
+16252,18-34,not_subscribed,8.11
+10766,18-34,subscribed,8.84
+10644,18-34,subscribed,5.71
+18779,under 18,not_subscribed,4.15
+15764,under 18,not_subscribed,4.18
+13060,18-34,subscribed,10.34
+10719,35 and over,not_subscribed,4.14
+10378,35 and over,not_subscribed,3.30
+11621,35 and over,not_subscribed,3.74
+17354,under 18,subscribed,6.31
+15307,under 18,subscribed,6.74
+17341,under 18,subscribed,5.79
+10967,under 18,not_subscribed,7.38
+16442,35 and over,subscribed,6.87
+13761,under 18,subscribed,6.65
+19239,35 and over,not_subscribed,4.12
+19589,18-34,not_subscribed,5.41
+15393,35 and over,subscribed,6.72
+18408,under 18,subscribed,7.37
+18721,under 18,subscribed,4.68
+14312,under 18,not_subscribed,3.48
+19388,18-34,not_subscribed,7.18
+19457,35 and over,subscribed,3.83
+10181,35 and over,not_subscribed,3.27
+19144,18-34,not_subscribed,10.86
+19976,35 and over,subscribed,7.25
+12078,18-34,subscribed,9.98
+11032,18-34,subscribed,8.68
+11107,18-34,subscribed,8.49
+19340,35 and over,subscribed,7.30
+13254,under 18,not_subscribed,5.71
+16998,under 18,subscribed,6.19
+14345,35 and over,not_subscribed,6.00
+13850,18-34,subscribed,6.81
+19660,35 and over,not_subscribed,3.08
+19272,35 and over,subscribed,5.71
+11644,18-34,subscribed,4.40
+18254,under 18,not_subscribed,9.15
+15657,35 and over,subscribed,5.66
+18619,18-34,subscribed,9.45
+18531,under 18,not_subscribed,2.96
+11124,35 and over,subscribed,4.60
+13172,18-34,not_subscribed,4.36
+13313,18-34,not_subscribed,10.60
+17215,under 18,subscribed,5.74
+15662,35 and over,not_subscribed,5.00
+19683,under 18,subscribed,7.34
+13400,under 18,subscribed,7.95
+17417,18-34,subscribed,9.49
+15196,35 and over,subscribed,4.56
+11658,18-34,subscribed,11.15
+15951,35 and over,not_subscribed,2.16
+14329,35 and over,subscribed,3.91
+12542,18-34,not_subscribed,13.69
+16327,35 and over,not_subscribed,4.12
+10357,18-34,subscribed,8.20
+15207,18-34,subscribed,9.02
+13758,under 18,subscribed,6.98
+14222,under 18,subscribed,6.59
+13567,18-34,subscribed,9.47
+16514,35 and over,subscribed,5.89
+19751,18-34,subscribed,8.83
+18595,35 and over,not_subscribed,5.34
+12698,35 and over,subscribed,6.99
+12898,35 and over,not_subscribed,4.95
+13732,18-34,not_subscribed,3.10
+15494,18-34,subscribed,8.08
+16446,18-34,not_subscribed,11.83
+17830,under 18,not_subscribed,3.67
+18549,35 and over,subscribed,5.00
+10084,18-34,not_subscribed,5.92
+17318,35 and over,not_subscribed,2.54
+13221,under 18,subscribed,4.98
+15560,35 and over,not_subscribed,2.80
+10587,35 and over,subscribed,6.97
+13906,35 and over,not_subscribed,2.53
+12015,18-34,subscribed,9.58
+15911,35 and over,subscribed,9.87
+11138,under 18,not_subscribed,5.55
+16077,35 and over,not_subscribed,2.98
+13345,35 and over,not_subscribed,2.99
+15823,under 18,subscribed,5.82
+18811,18-34,subscribed,7.49
+16310,18-34,subscribed,9.27
+14664,35 and over,subscribed,6.19
+19810,under 18,not_subscribed,5.22
+18054,18-34,subscribed,8.88
+17191,18-34,subscribed,9.65
+18987,35 and over,not_subscribed,2.95
+19625,35 and over,not_subscribed,2.40
+17892,18-34,subscribed,9.74
+18533,under 18,subscribed,5.11
+18295,18-34,subscribed,9.45
+12179,35 and over,subscribed,3.74
+13378,35 and over,subscribed,7.26
+17538,under 18,not_subscribed,5.56
+16043,35 and over,subscribed,7.01
+16676,35 and over,subscribed,6.23
+12967,18-34,subscribed,8.26
+11945,35 and over,not_subscribed,3.33
+12713,35 and over,subscribed,4.00
+19745,under 18,subscribed,5.25
+17792,35 and over,subscribed,4.12
+19222,35 and over,not_subscribed,2.98
+18403,under 18,subscribed,7.54
+17543,18-34,not_subscribed,9.35
+17103,35 and over,subscribed,6.72
+14502,35 and over,subscribed,6.75
+15544,35 and over,not_subscribed,3.82
+15414,18-34,subscribed,11.75
+16574,18-34,subscribed,8.73
+16195,under 18,subscribed,6.06
+13039,18-34,subscribed,7.92
+18991,18-34,subscribed,7.41
+12590,35 and over,subscribed,6.52
+10986,under 18,not_subscribed,5.50
+10306,18-34,subscribed,11.25
+15435,35 and over,subscribed,2.64
+16177,18-34,subscribed,11.68
+19270,18-34,subscribed,10.56
+16051,18-34,subscribed,8.37
+19869,18-34,subscribed,11.37
+14800,35 and over,not_subscribed,4.14
+17992,35 and over,not_subscribed,6.00
+11937,35 and over,not_subscribed,3.40
+10005,35 and over,subscribed,6.89
+18910,35 and over,subscribed,8.41
+10334,18-34,subscribed,7.26
+15749,under 18,subscribed,5.09
+11493,35 and over,not_subscribed,2.86
+12817,35 and over,not_subscribed,2.00
+10707,18-34,subscribed,10.90
+12119,18-34,subscribed,6.65
+17531,18-34,subscribed,7.84
+16231,35 and over,not_subscribed,7.00
+19107,35 and over,subscribed,5.97
+11456,18-34,subscribed,7.54
+18962,18-34,not_subscribed,6.84
+13649,18-34,not_subscribed,9.92
+19318,under 18,subscribed,7.91
+15231,18-34,not_subscribed,8.36
+13670,18-34,subscribed,14.16
+18221,18-34,subscribed,9.34
+19127,35 and over,not_subscribed,3.80
+12347,18-34,not_subscribed,12.98
+19425,under 18,not_subscribed,4.57
+10898,35 and over,not_subscribed,3.08
+11290,35 and over,subscribed,7.68
+12885,18-34,subscribed,6.95
+14992,35 and over,not_subscribed,3.26
+17424,35 and over,not_subscribed,6.00
+19223,under 18,not_subscribed,5.80
+18060,18-34,not_subscribed,4.10
+14037,under 18,subscribed,7.72
+17208,18-34,subscribed,8.70
+16237,18-34,subscribed,7.73
+18852,18-34,subscribed,10.19
+10668,35 and over,subscribed,6.42
+10409,35 and over,subscribed,0.41
+12453,18-34,subscribed,11.39
+15535,35 and over,not_subscribed,3.52
+15915,35 and over,not_subscribed,6.00
+10006,35 and over,not_subscribed,2.52
+13760,35 and over,not_subscribed,5.00
+12704,under 18,not_subscribed,4.31
+10489,18-34,subscribed,9.82
+15440,35 and over,subscribed,3.53
+19707,under 18,not_subscribed,5.62
+10047,18-34,subscribed,9.45
+18113,under 18,not_subscribed,10.71
+10133,35 and over,not_subscribed,3.29
+13654,under 18,subscribed,7.85
+13232,35 and over,subscribed,6.25
+10372,35 and over,not_subscribed,3.51
+17437,35 and over,not_subscribed,2.53
+13629,35 and over,not_subscribed,2.69
+13803,35 and over,subscribed,5.48
+11839,18-34,subscribed,9.27
+11782,18-34,not_subscribed,9.59
+12077,35 and over,not_subscribed,2.79
+12541,35 and over,subscribed,9.68
+18553,18-34,subscribed,6.11
+13147,35 and over,not_subscribed,3.95
+14120,35 and over,subscribed,6.40
+10285,35 and over,subscribed,8.51
+13844,35 and over,not_subscribed,4.72
+13276,35 and over,not_subscribed,7.00
+16844,35 and over,not_subscribed,3.63
+13878,18-34,not_subscribed,9.87
+12990,35 and over,subscribed,7.05
+11529,under 18,not_subscribed,5.20
+16672,35 and over,not_subscribed,3.56
+12588,18-34,subscribed,9.22
+12173,35 and over,not_subscribed,6.00
+16726,35 and over,not_subscribed,2.01
+17910,18-34,subscribed,6.07
+12147,18-34,subscribed,5.53
+17865,18-34,subscribed,7.98
+18895,18-34,subscribed,11.85
+13197,under 18,not_subscribed,6.82
+19355,35 and over,not_subscribed,4.21
+19864,35 and over,not_subscribed,1.56
+11441,18-34,not_subscribed,5.36
+15785,18-34,subscribed,7.52
+10098,18-34,subscribed,10.19
+14986,35 and over,not_subscribed,3.54
+19947,18-34,subscribed,6.68
+14306,18-34,not_subscribed,9.49
+17603,35 and over,not_subscribed,2.78
+18645,18-34,subscribed,5.60
+18503,35 and over,subscribed,5.53
+13032,35 and over,not_subscribed,3.53
+15722,18-34,subscribed,6.97
+18432,35 and over,not_subscribed,3.61
+18344,35 and over,not_subscribed,2.27
+14467,35 and over,not_subscribed,2.72
+14185,under 18,subscribed,7.23
+17217,under 18,subscribed,6.63
+16346,35 and over,not_subscribed,3.85
+16583,under 18,not_subscribed,5.14
+18841,35 and over,subscribed,4.32
+13233,35 and over,subscribed,3.36
+12914,18-34,subscribed,10.37
+14008,35 and over,subscribed,9.16
+10142,18-34,subscribed,8.29
+11181,18-34,not_subscribed,3.98
+19768,under 18,subscribed,6.64
+11028,18-34,subscribed,8.47
+17411,18-34,subscribed,9.17
+18165,18-34,subscribed,7.11
+14393,18-34,subscribed,13.72
+14703,35 and over,not_subscribed,3.64
+14187,35 and over,not_subscribed,1.60
+17227,under 18,subscribed,6.13
+15620,under 18,subscribed,6.91
+16544,35 and over,not_subscribed,3.21
+11372,35 and over,subscribed,7.21
+10214,under 18,not_subscribed,5.34
+15723,35 and over,subscribed,3.25
+18203,under 18,subscribed,5.23
+12368,18-34,not_subscribed,2.67
+13810,35 and over,not_subscribed,3.27
+10132,35 and over,not_subscribed,3.98
+18376,35 and over,subscribed,4.14
+17908,under 18,not_subscribed,3.80
+15658,35 and over,subscribed,4.78
+16635,under 18,not_subscribed,4.73
+19775,35 and over,not_subscribed,4.11
+17332,18-34,subscribed,8.93
+12419,18-34,subscribed,4.72
+17927,under 18,subscribed,5.11
+12360,under 18,not_subscribed,4.55
+19454,35 and over,not_subscribed,2.31
+15280,18-34,subscribed,5.59
+19906,18-34,subscribed,10.96
+17018,18-34,subscribed,11.19
+12197,35 and over,subscribed,7.43
+12046,35 and over,not_subscribed,3.60
+14379,under 18,not_subscribed,1.74
+10314,35 and over,subscribed,6.43
+18657,18-34,not_subscribed,7.91
+18830,35 and over,not_subscribed,3.86
+18381,35 and over,subscribed,9.18
+18193,35 and over,not_subscribed,2.77
+11180,35 and over,subscribed,6.28
+11322,18-34,not_subscribed,6.76
+17742,35 and over,subscribed,4.73
+11883,35 and over,not_subscribed,2.05
+12084,18-34,subscribed,7.80
+17161,35 and over,not_subscribed,2.54
+12800,18-34,not_subscribed,7.92
+17722,18-34,subscribed,5.36
+10889,18-34,not_subscribed,5.48
+16944,35 and over,subscribed,7.07
+16591,35 and over,not_subscribed,2.68
+19389,under 18,not_subscribed,4.52
+19809,35 and over,not_subscribed,2.24
+16709,35 and over,subscribed,1.56
+18919,18-34,subscribed,5.16
+19284,35 and over,subscribed,4.62
+15805,35 and over,not_subscribed,2.45
+15844,18-34,subscribed,6.70
+18026,18-34,subscribed,9.59
+14722,18-34,subscribed,10.70
+11257,18-34,subscribed,10.58
+12503,under 18,subscribed,6.97
+17481,under 18,not_subscribed,3.89
+15584,35 and over,not_subscribed,3.37
+12523,18-34,subscribed,5.06
+19925,18-34,subscribed,11.94
+13058,35 and over,not_subscribed,2.48
+15047,35 and over,not_subscribed,2.84
+10225,35 and over,subscribed,4.93
+11584,35 and over,subscribed,6.18
+18823,35 and over,not_subscribed,2.60
+16257,under 18,not_subscribed,3.89
+16314,18-34,subscribed,9.53
+19884,35 and over,subscribed,4.50
+18611,under 18,not_subscribed,2.59
+10331,35 and over,subscribed,6.22
+16722,35 and over,subscribed,5.26
+19108,under 18,not_subscribed,3.69
+10051,18-34,subscribed,9.54
+13220,18-34,not_subscribed,7.78
+15583,18-34,not_subscribed,8.27
+16443,18-34,not_subscribed,5.99
+12451,18-34,subscribed,8.77
+14753,35 and over,not_subscribed,3.27
+11918,35 and over,subscribed,5.83
+14213,35 and over,not_subscribed,2.80
+12160,35 and over,not_subscribed,3.11
+16048,35 and over,not_subscribed,0.79
+17261,35 and over,subscribed,2.25
+14654,35 and over,not_subscribed,4.77
+11385,35 and over,not_subscribed,2.32
+11323,under 18,subscribed,7.28
+16644,under 18,subscribed,7.24
+19943,under 18,subscribed,5.80
+15317,18-34,not_subscribed,7.56
+13324,35 and over,not_subscribed,1.24
+14795,18-34,subscribed,15.51
+10680,under 18,subscribed,6.38
+18364,18-34,subscribed,4.07
+19293,18-34,subscribed,7.48
+19010,18-34,not_subscribed,10.00
+11134,18-34,subscribed,9.62
+14974,18-34,subscribed,8.91
+19508,35 and over,not_subscribed,3.43
+13867,35 and over,not_subscribed,2.96
+13484,35 and over,subscribed,9.59
+18494,18-34,not_subscribed,6.45
+15842,under 18,not_subscribed,5.16
+18926,under 18,not_subscribed,5.99
+17369,35 and over,not_subscribed,3.40
+17183,18-34,subscribed,6.16
+15865,35 and over,subscribed,4.13
+16145,18-34,not_subscribed,0.28
+11950,under 18,not_subscribed,5.43
+14247,35 and over,subscribed,6.61
+11606,under 18,subscribed,5.42
+11416,18-34,subscribed,9.03
+14732,under 18,not_subscribed,5.29
+17043,35 and over,not_subscribed,4.41
+10812,18-34,subscribed,9.31
+16610,35 and over,not_subscribed,3.64
+17167,35 and over,not_subscribed,2.27
+12959,under 18,not_subscribed,6.54
+18395,35 and over,subscribed,3.01
+15400,18-34,subscribed,12.38
+12748,35 and over,not_subscribed,3.79
+10550,18-34,subscribed,9.07
+19612,18-34,subscribed,6.71
+14905,18-34,subscribed,8.13
+15268,35 and over,subscribed,3.34
+10072,35 and over,not_subscribed,3.13
+16827,18-34,subscribed,9.41
+18960,18-34,not_subscribed,16.53
+10186,18-34,not_subscribed,6.61
+16917,35 and over,subscribed,2.83
+12680,under 18,not_subscribed,7.68
+13446,18-34,subscribed,9.53
+10582,35 and over,not_subscribed,3.04
+15316,35 and over,subscribed,3.91
+10279,35 and over,not_subscribed,2.40
+11946,under 18,subscribed,6.83
+13657,35 and over,subscribed,4.48
+11465,18-34,subscribed,8.73
+12809,35 and over,subscribed,6.53
+10973,18-34,not_subscribed,9.89
+15813,18-34,subscribed,10.52
+13788,35 and over,not_subscribed,3.52
+13451,under 18,subscribed,7.14
+11649,35 and over,not_subscribed,1.41
+11515,35 and over,subscribed,4.88
+15622,under 18,not_subscribed,3.05
+11418,35 and over,not_subscribed,2.60
+16545,under 18,not_subscribed,6.16
+12726,18-34,not_subscribed,11.28
+14998,35 and over,subscribed,9.44
+14378,under 18,subscribed,5.99
+13496,35 and over,subscribed,6.57
+19725,18-34,subscribed,8.89
+17365,35 and over,subscribed,3.51
+19644,under 18,subscribed,8.60
+13695,under 18,not_subscribed,6.85
+11159,under 18,subscribed,6.97
+16415,under 18,not_subscribed,7.01
+19067,18-34,subscribed,8.20
+16982,35 and over,not_subscribed,5.23
+19662,18-34,subscribed,7.42
+15157,35 and over,not_subscribed,2.76
+18424,under 18,not_subscribed,3.69
+18911,18-34,not_subscribed,5.56
+13461,under 18,subscribed,5.48
+19904,35 and over,subscribed,7.05
+12008,18-34,not_subscribed,4.55
+14916,under 18,subscribed,6.83
+13507,under 18,not_subscribed,5.43
+11275,18-34,subscribed,9.87
+10610,under 18,subscribed,5.76
+18831,35 and over,subscribed,5.72
+15643,35 and over,not_subscribed,1.90
+16835,35 and over,not_subscribed,2.41
+14601,under 18,not_subscribed,2.01
+17050,18-34,subscribed,10.11
+14653,18-34,subscribed,12.69
+13352,35 and over,not_subscribed,2.61
+12458,35 and over,subscribed,3.21
+10895,under 18,subscribed,5.72
+19494,under 18,not_subscribed,5.17
+18862,under 18,not_subscribed,3.07
+18112,35 and over,not_subscribed,2.14
+19733,18-34,subscribed,9.58
+13392,35 and over,not_subscribed,2.72
+19290,under 18,not_subscribed,9.43
+12200,35 and over,not_subscribed,2.73
+12690,under 18,not_subscribed,6.40
+18508,18-34,not_subscribed,7.77
+17276,18-34,subscribed,8.72
+12911,18-34,not_subscribed,7.27
+16853,35 and over,not_subscribed,3.18
+19282,18-34,subscribed,10.05
+17059,35 and over,subscribed,6.77
+10976,35 and over,subscribed,4.67
+13843,35 and over,not_subscribed,3.84
+15027,35 and over,not_subscribed,1.94
+19448,35 and over,subscribed,7.62
+12568,under 18,subscribed,3.96
+11077,under 18,subscribed,3.56
+16695,35 and over,subscribed,4.20
+10204,35 and over,not_subscribed,3.10
+15112,under 18,not_subscribed,7.40
+14435,18-34,subscribed,9.19
+10236,18-34,subscribed,13.67
+19896,35 and over,subscribed,3.89
+15794,18-34,not_subscribed,9.04
+16460,18-34,subscribed,8.76
+13148,35 and over,not_subscribed,1.76
+14262,18-34,subscribed,8.45
+15561,under 18,subscribed,7.68
+10661,under 18,subscribed,6.79
+14116,35 and over,subscribed,7.11
+14777,18-34,subscribed,7.71
+13804,18-34,subscribed,10.66
+10862,under 18,subscribed,4.58
+16111,35 and over,not_subscribed,3.71
+18515,under 18,subscribed,6.18
+10303,35 and over,not_subscribed,3.31
+14161,under 18,subscribed,6.20
+11409,18-34,subscribed,8.07
+16989,18-34,subscribed,11.13
+15796,35 and over,subscribed,8.36
+17413,under 18,not_subscribed,4.42
+13724,18-34,subscribed,12.25
+15289,18-34,subscribed,10.00
+18025,35 and over,not_subscribed,3.28
+12209,18-34,subscribed,9.34
+14579,under 18,subscribed,6.57
+18024,18-34,not_subscribed,3.48
+17684,35 and over,not_subscribed,3.22
+17325,under 18,subscribed,6.68
+10995,18-34,not_subscribed,8.11
+12842,under 18,subscribed,5.30
+17109,18-34,subscribed,5.59
+17721,18-34,not_subscribed,9.58
+10627,35 and over,subscribed,8.67
+15418,under 18,not_subscribed,6.07
+19526,18-34,subscribed,4.37
+17818,18-34,subscribed,6.60
+12891,18-34,subscribed,7.22
+11924,35 and over,subscribed,3.77
+19286,18-34,not_subscribed,11.52
+18620,under 18,subscribed,5.10
+13144,35 and over,subscribed,3.92
+17827,18-34,subscribed,5.53
+18525,35 and over,not_subscribed,4.59
+12098,18-34,subscribed,10.60
+11127,18-34,subscribed,8.63
+10242,35 and over,not_subscribed,2.86
+14712,35 and over,subscribed,4.77
+17708,under 18,subscribed,8.21
+12578,18-34,not_subscribed,10.87
+19907,18-34,not_subscribed,10.61
+16200,under 18,not_subscribed,2.80
+11919,18-34,not_subscribed,5.35
+16565,under 18,not_subscribed,2.20
+11402,18-34,subscribed,9.78
+18698,18-34,subscribed,6.61
+12913,35 and over,not_subscribed,2.23
+18869,35 and over,subscribed,4.97
+17859,under 18,subscribed,7.53
+17924,18-34,not_subscribed,1.99
+13371,35 and over,not_subscribed,3.90
+17469,18-34,subscribed,8.85
+18755,35 and over,not_subscribed,1.96
+18173,under 18,subscribed,4.94
+19834,18-34,not_subscribed,8.41
+19698,35 and over,subscribed,4.26
+19256,35 and over,subscribed,4.18
+18745,under 18,not_subscribed,3.98
+16186,18-34,subscribed,8.90
+17820,35 and over,not_subscribed,2.13
+10818,35 and over,not_subscribed,2.20
+14606,under 18,not_subscribed,6.15
+18740,35 and over,not_subscribed,4.73
+17118,35 and over,not_subscribed,2.26
+17121,35 and over,subscribed,4.00
+14622,18-34,not_subscribed,0.22
+16585,35 and over,subscribed,5.44
+14675,under 18,subscribed,5.60
+15520,18-34,not_subscribed,4.80
+19777,18-34,subscribed,10.17
+13957,18-34,subscribed,10.54
+18977,18-34,subscribed,8.89
+15552,35 and over,subscribed,6.45
+11885,35 and over,not_subscribed,3.39
+18810,18-34,subscribed,10.86
+15603,18-34,not_subscribed,6.02
+13782,35 and over,subscribed,7.21
+14819,18-34,subscribed,9.37
+19112,35 and over,not_subscribed,2.84
+10406,under 18,subscribed,5.85
+19940,18-34,subscribed,12.51
+13357,under 18,subscribed,6.81
+16723,35 and over,subscribed,5.48
+14390,under 18,subscribed,6.53
+17746,35 and over,not_subscribed,4.09
+15229,35 and over,not_subscribed,2.99
+12577,under 18,not_subscribed,5.48
+12556,35 and over,not_subscribed,4.83
+11320,18-34,subscribed,8.95
+13889,18-34,not_subscribed,8.39
+10027,35 and over,subscribed,4.37
+16967,35 and over,not_subscribed,3.38
+16757,18-34,subscribed,9.37
+11296,18-34,not_subscribed,4.95
+15919,18-34,subscribed,11.69
+15996,18-34,subscribed,9.57
+16391,under 18,subscribed,4.99
+17880,18-34,not_subscribed,4.74
+10979,35 and over,not_subscribed,1.80
+14498,18-34,subscribed,8.16
+13365,18-34,subscribed,3.67
+15929,under 18,subscribed,6.20
+14449,18-34,subscribed,7.61
+18006,18-34,not_subscribed,4.46
+13335,35 and over,subscribed,7.59
+14220,35 and over,subscribed,5.87
+13560,35 and over,subscribed,6.97
+10961,18-34,subscribed,6.20
+14282,under 18,subscribed,6.18
+17853,35 and over,not_subscribed,2.37
+19567,under 18,not_subscribed,5.65
+11476,under 18,subscribed,6.53
+19102,35 and over,not_subscribed,2.46
+12738,under 18,subscribed,6.57
+18278,18-34,not_subscribed,5.47
+15239,18-34,subscribed,12.43
+16953,35 and over,not_subscribed,3.04
+10864,18-34,subscribed,7.06
+11115,under 18,not_subscribed,3.54
+12388,under 18,not_subscribed,8.26
+12851,35 and over,not_subscribed,4.25
+17326,35 and over,not_subscribed,2.02
+12710,18-34,not_subscribed,6.88
+15447,under 18,not_subscribed,5.88
+10138,35 and over,not_subscribed,2.84
+12042,35 and over,not_subscribed,4.24
+14283,35 and over,not_subscribed,3.39
+14718,under 18,not_subscribed,5.82
+10779,18-34,not_subscribed,0.38
+17902,35 and over,not_subscribed,1.03
+18805,35 and over,not_subscribed,3.41
+16486,18-34,subscribed,6.56
+19044,18-34,subscribed,8.23
+11248,18-34,subscribed,10.68
+11927,35 and over,not_subscribed,2.04
+16668,18-34,subscribed,7.78
+16230,35 and over,not_subscribed,3.00
+15712,under 18,subscribed,6.48
+17123,18-34,subscribed,10.82
+18643,18-34,subscribed,9.03
+16180,35 and over,subscribed,5.55
+14534,35 and over,subscribed,5.04
+12010,18-34,subscribed,8.88
+11247,18-34,subscribed,11.29
+11151,18-34,subscribed,8.49
+12930,35 and over,subscribed,5.53
+11374,35 and over,subscribed,7.70
+17195,35 and over,not_subscribed,4.00
+12335,18-34,subscribed,8.13
+12099,18-34,not_subscribed,6.47
+16296,35 and over,not_subscribed,1.60
+14886,35 and over,subscribed,5.92
+19641,under 18,not_subscribed,3.01
+15481,35 and over,subscribed,4.90
+13505,35 and over,not_subscribed,3.71
+12951,under 18,subscribed,6.23
+18558,35 and over,not_subscribed,4.05
+14919,18-34,not_subscribed,4.11
+16764,18-34,subscribed,7.44
+18234,35 and over,subscribed,2.50
+13515,35 and over,not_subscribed,1.32
+17829,18-34,subscribed,9.96
+12684,35 and over,not_subscribed,4.17
+14064,under 18,subscribed,6.03
+17290,18-34,subscribed,5.91
+19253,18-34,not_subscribed,8.64
+12284,18-34,subscribed,5.21
+10941,18-34,subscribed,7.63
+13362,18-34,subscribed,11.42
+13423,under 18,subscribed,6.32
+16406,under 18,not_subscribed,3.55
+12050,under 18,subscribed,6.89
+15202,18-34,subscribed,10.17
+15541,35 and over,not_subscribed,2.50
+17592,18-34,subscribed,9.48
+17799,18-34,subscribed,7.70
+11842,18-34,subscribed,9.54
+12004,18-34,subscribed,8.50
+14821,18-34,subscribed,12.41
+10129,under 18,subscribed,5.53
+15527,35 and over,subscribed,4.25
+10905,18-34,subscribed,5.21
+12953,18-34,subscribed,10.42
+16259,35 and over,subscribed,8.82
+17430,35 and over,not_subscribed,4.00
+13606,35 and over,subscribed,7.90
+13258,18-34,not_subscribed,12.31
+19955,18-34,subscribed,9.30
+14045,35 and over,subscribed,4.31
+10800,35 and over,subscribed,8.72
+14778,35 and over,subscribed,4.19
+17612,35 and over,subscribed,6.00
+10805,35 and over,not_subscribed,2.47
+16973,35 and over,subscribed,2.47
+13544,under 18,subscribed,6.84
+17632,18-34,subscribed,5.20
+18333,18-34,subscribed,5.60
+15950,18-34,not_subscribed,10.01
+10333,under 18,not_subscribed,8.53
+10540,under 18,not_subscribed,4.15
+15059,35 and over,subscribed,6.45
+12956,under 18,subscribed,5.44
+14614,18-34,subscribed,8.54
+19276,18-34,subscribed,6.57
+14061,35 and over,not_subscribed,2.70
+14903,under 18,subscribed,7.40
+15671,18-34,subscribed,9.65
+10318,35 and over,subscribed,3.77
+15309,18-34,subscribed,11.48
+17670,under 18,not_subscribed,11.02
+18324,18-34,subscribed,8.02
+14585,35 and over,subscribed,5.62
+19861,35 and over,not_subscribed,3.62
+14420,under 18,not_subscribed,8.95
+16159,35 and over,subscribed,4.85
+14972,18-34,subscribed,8.23
+13825,under 18,subscribed,6.45
+12118,18-34,subscribed,7.42
+11964,under 18,subscribed,6.71
+12243,35 and over,not_subscribed,1.58
+18581,18-34,not_subscribed,8.56
+17256,18-34,subscribed,10.43
+10162,18-34,not_subscribed,8.14
+19837,35 and over,subscribed,6.71
+12397,35 and over,not_subscribed,3.46
+16328,35 and over,subscribed,4.18
+14218,18-34,not_subscribed,2.11
+17872,18-34,subscribed,9.33
+19133,18-34,subscribed,9.01
+14962,under 18,not_subscribed,2.52
+17449,35 and over,subscribed,5.12
+19198,35 and over,not_subscribed,2.55
+10569,35 and over,subscribed,4.86
+17146,35 and over,not_subscribed,3.68
+10101,under 18,not_subscribed,4.30
+19828,under 18,subscribed,5.39
+19632,35 and over,not_subscribed,3.81
+13680,35 and over,not_subscribed,2.92
+15353,18-34,not_subscribed,6.57
+10994,18-34,subscribed,8.54
+12309,18-34,subscribed,11.41
+10513,35 and over,subscribed,4.30
+13129,35 and over,subscribed,4.54
+16690,under 18,subscribed,6.78
+16983,under 18,not_subscribed,4.20
+13255,18-34,not_subscribed,12.37
+15132,35 and over,not_subscribed,2.93
+16334,under 18,subscribed,6.33
+16558,18-34,subscribed,8.31
+11780,35 and over,subscribed,4.22
+11112,18-34,subscribed,9.52
+12022,18-34,subscribed,9.15
+18414,under 18,not_subscribed,3.85
+17551,35 and over,not_subscribed,3.10
+10764,under 18,subscribed,7.18
+19054,35 and over,not_subscribed,3.75
+11203,18-34,subscribed,6.46
+13267,under 18,not_subscribed,2.55
+13294,18-34,subscribed,5.28
+11999,under 18,subscribed,5.84
+19417,under 18,not_subscribed,3.62
+12834,under 18,not_subscribed,7.57
+10472,18-34,subscribed,7.98
+14683,35 and over,not_subscribed,2.67
+10119,18-34,not_subscribed,7.05
+16586,35 and over,not_subscribed,2.04
+16523,under 18,not_subscribed,4.86
+13902,35 and over,not_subscribed,5.23
+16729,35 and over,subscribed,4.70
+18972,35 and over,subscribed,6.76
+11187,18-34,not_subscribed,5.02
+18000,under 18,subscribed,4.84
+16741,18-34,subscribed,6.83
+13034,18-34,not_subscribed,7.76
+12111,35 and over,subscribed,8.43
+10801,35 and over,not_subscribed,2.90
+13884,under 18,subscribed,7.63
+18109,18-34,subscribed,6.63
+19966,under 18,subscribed,7.29
+13934,35 and over,subscribed,8.81
+10271,under 18,not_subscribed,3.52
+17439,35 and over,subscribed,3.12
+10112,35 and over,subscribed,5.25
+10692,35 and over,not_subscribed,2.37
+11164,18-34,subscribed,8.19
+14958,35 and over,not_subscribed,3.78
